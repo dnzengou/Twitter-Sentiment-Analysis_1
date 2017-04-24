@@ -16,14 +16,14 @@ library(RCurl);
 require(RCurl);
 
 # set Twitter API access credentials
-consumer_key <- "xxxxx";
-consumer_secret <- "xxxxx";
-access_token <- "xxxxx";
-access_secret <- "xxxxx";
+consumer_key <- "xxx";
+consumer_secret <- "xxx";
+access_token <- "xxx";
+access_secret <- "xxx";
 
 
 library(twitteR);
-# setup_twitter_oauth(getOption("consumer_key"), getOption("consumer_secret"), getOption("access_token"), getOption("access_secret"))
+# setup_twitter_oauth(getOption("xxx"), getOption("xxx"), getOption("xxx"), getOption("xxx"))
 
 # download.file(url="http://curl.haxx.se/ca/cacert.pem", destfile="cacert.pem")
 
