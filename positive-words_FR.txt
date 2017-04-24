@@ -1,0 +1,2041 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; ;;;;;;;;;;;;;;;;;;;;;;;;;
+;
+; Lexique d'opinion: positif
+;
+; Ce fichier contient une liste de mots d'opinion POSITIFS (ou des mots de sentiment).
+;
+; Ce fichier et les articles peuvent tous ??tre t??l??charg??s ?? partir de
+; Http://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html
+;
+; Si vous utilisez cette liste, veuillez citer l'un des deux articles suivants:
+;
+; Minqing Hu et Bing Liu. ??Extraction et r??sum?? des commentaires des clients??.
+; Actes de la conf??rence internationale ACM SIGKDD sur la connaissance
+; D??couverte et exploration de donn??es (KDD-2004), 22 au 25 ao??t 2004, Seattle,
+; Washington, ??tats-Unis,
+; Bing Liu, Minqing Hu et Junsheng Cheng. "Opinion Observer: Analyse
+; Et Comparer les Opinions sur le Web. "Actes du 14??me
+; Conf??rence internationale du World Wide Web (WWW-2005), 10-14 mai,
+; 2005, Chiba, Japon.
+;
+; Remarques:
+; 1. L'apparition d'un mot d'opinion dans une phrase ne requiert pas n??cessairement
+; Signifie que la phrase exprime un avis positif ou n??gatif.
+; Voir le document ci-dessous:
+;
+; Bing Liu. "Sentiment Analysis and Subjectivity". Un chapitre en
+; Manuel de traitement du langage naturel, deuxi??me ??dition,
+; (??diteurs: N. Indurkhya et F. J. Damerau), 2010.
+;
+; 2. Vous remarquerez de nombreux mots mal orthographi??s dans la liste. Ils ne sont pas
+; Des erreurs. Ils sont inclus ?? mesure que ces mots mal orthographi??s apparaissent
+; Souvent dans le contenu des r??seaux sociaux.
+;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; ;;;;;;;;;;;;;;;;;;;;;;;;;
+
+A +
+abonder
+Abonde
+abondance
+abondant
+Accessible
+accessible
+acclamer
+Acclam??
+acclamation
+accolade
+Accolades
+Accommodant
+Accommodant
+accomplir
+accompli
+accomplissement
+Accomplissements
+pr??cis
+avec pr??cision
+r??alisable
+r??ussite
+r??alisations
+R??alisable
+perspicacit??
+adaptable
+adaptatif
+ad??quat
+Ajustable
+admirable
+admirablement
+admiration
+admirer
+admirateur
+Admirer
+Admirativement
+adorable
+adorer
+Ador??
+adorateur
+Adorer
+Adoreusement
+adroit
+Avec habilet??
+aduler
+adulation
+Adulatoire
+Avanc??e
+avantage
+avantageux
+Avantageusement
+Avantages
+aventureux
+aventureux
+avocat
+Pr??conis??
+D??fenseurs
+affabilit??
+affable
+Affable
+affectation
+affection
+affectueux
+affinit??
+affirmer
+affirmation
+affirmative
+richesse
+affluent
+offrir
+abordable
+?? moindre co??t
+Abordable
+agile
+Agilement
+agilit??
+agr??able
+L'agr??ment
+agr??ablement
+tout autour
+s??duisant
+De fa??on s??duisante
+altruiste
+De mani??re altruiste
+??tonner
+??merveill??
+stup??faction
+??merveille
+incroyable
+Incroyablement
+ambitieux
+Ambitieusement
+am??liorer
+Acceptable
+am??nit??
+amabilit??
+Amiablement
+aimable
+amabilit??
+amical
+?? l'amiable
+amiti??
+ample
+amplement
+amuser
+amusant
+Amusement
+ange
+ang??lique
+apoth??ose
+charme
+attirant
+applaudir
+appr??ciable
+appr??cier
+Appr??ci??
+Appr??cie
+reconnaissant
+Avec appr??ciation
+appropri??
+approbation
+approuver
+ardent
+ardemment
+ardeur
+articuler
+aspiration
+Aspirations
+aspirer
+assurance
+Assurances
+assurer
+assur??ment
+Assurant
+??tonner
+??tonn??
+??tonnant
+??tonnamment
+??tonnement
+??tonner
+??tonn??
+??tonnant
+??tonnamment
+Astucieusement
+attentif
+attraction
+attrayant
+De fa??on attrayante
+harmoniser
+audible
+Audiblement
+de bon augure
+authentique
+Autoritaire
+autonome
+disponible
+Aver
+avide
+Avidement
+prix
+D??cern??
+prix
+admiration
+Impressionn??
+impressionnant
+??tonnamment
+??motion
+??merveill??
+Incroyable
+colonne vert??brale
+??quilibr??
+bonne affaire
+beau
+beau
+Magnifiquement
+Magnifiquement
+embellir
+beaut??
+Faire signe
+Fait signe
+Faire signe
+Fait signe
+croyable
+Croyable
+Aim??
+bienfaiteur
+bienfaisant
+b??n??fique
+B??n??fique
+B??n??ficiaire
+avantage
+avantages
+bienveillance
+bienveillant
+Benifits
+meilleur
+plus connu
+Le meilleur rendement
+plus vendu
+meilleur
+mieux connu
+mieux que pr??vu
+Beutifully
+irr??prochable
+b??nir
+b??n??diction
+f??licit??
+bienheureux
+Heureusement
+joyeux
+superproduction
+Floraison
+fleur
+traversin
+beau
+prime
+bonus
+boom
+en plein essor
+renforcer
+sans bornes
+g??n??reux
+Le plus grand
+intelligent
+tout neuf
+courageux
+bravoure
+Bravo
+perc??e
+Perc??es
+essoufflement
+Stup??fiant
+?? couper le souffle
+brise
+brillant
+??clairer
+Plus lumineux
+Le plus brillant
+??clat
+Brillances
+brillant
+brillamment
+rapide
+fraternel
+haussier
+flottable
+cajoler
+calme
+calmant
+calme
+aptitude
+capable
+De mani??re facultative
+captiver
+captivant
+insouciant
+Remboursement
+Cashbacks
+entra??nant
+c??l??brer
+c??l??bre
+f??te
+F??te
+Champion
+champion
+charisme
+Charismatique
+charitable
+charme
+charmant
+Avec charme
+chaste
+moins cher
+Les moins chers
+acclamation
+de bonne humeur
+gai
+ch??rir
+Ch??ri
+ch??rubin
+??l??gant
+chevaleresque
+chevalerie
+civilit??
+civiliser
+clart??
+classique
+chic
+nettoyer
+nettoyeur
+Le plus propre
+propret??
+propre
+clair
+Clair
+D??gag??
+plus clair
+clairement
+Efface
+intelligent
+habilement
+adh??rer
+la coh??rence
+coh??rent
+coh??sif
+Color??
+belle
+confort
+confortable
+Confortablement
+r??confortant
+confortable
+saluer
+louable
+Louable
+engagement
+spacieux
+compact
+De mani??re compacte
+la compassion
+compatissant
+compatible
+comp??titif
+compl??ment
+compl??mentaire
+Compl??t??
+compl??ments
+Conforme
+compliment
+Compl??mentaire
+complet
+concilier
+conciliatoire
+concis
+confiance
+sur de soi
+agr??able
+f??liciter
+f??licitation
+toutes nos f??licitations
+de f??licitations
+consciencieux
+pr??venant
+coh??rent
+r??guli??rement
+constructif
+Consomm??
+contentement
+continuit??
+Contrast??
+contribution
+commodit??
+pratique
+Commod??ment
+Convience
+Convienient
+Convient
+convaincant
+De fa??on convaincante
+cool
+Le plus cool
+coop??rative
+En coop??ration
+Pierre angulaire
+correct
+correctement
+rentable
+r??duction des co??ts
+contre-attaque
+contre attaque
+courage
+courageux
+courageusement
+Courageuse
+courtois
+courtois
+engagement
+confortable
+Cr??atif
+foi
+cr??dible
+croustillant
+Plus net
+gu??rir
+Gu??rir
+Coussin
+mignonne
+Rage
+Danke
+Danken
+audacieux
+Audacieusement
+ch??ri
+fringant
+intr??pide
+Aube
+??blouir
+??bloui
+??blouissant
+Mort-bon march??
+Dead-on
+d??cence
+d??cent
+d??cisif
+La d??termination
+d??vou??
+d??faite
+vaincu
+d??faite
+D??faites
+d??fenseur
+respect
+habile
+D??sint??gr??
+d??lectable
+d??licatesse
+d??licat
+d??licieux
+d??lice
+Enchant??
+d??licieux
+d??licieusement
+D??licieuse
+s??r
+De mani??re fiable
+?? juste titre
+m??ritant
+souhaitable
+D??sirant
+d??sireux
+destin
+D??tachable
+pieux
+agile
+Dext??rit??
+agile
+digne
+honorer
+dignit??
+diligence
+diligent
+Avec diligence
+diplomatique
+Sale-bon march??
+distinction
+distinctif
+distingu??
+diversifi??
+Divin
+Divinement
+dominer
+domin??
+Domine
+Dote
+Daterly
+sans aucun doute
+pays de r??ve
+Stup??fait
+Stupide
+R??sistant ?? la muraille
+durable
+dynamique
+d??sireux
+vivement
+ardeur
+s??rieux
+s??rieusement
+S??rieux
+facilit??
+All??g??
+Facilite
+Plus facile
+Le plus simple
+facilit??
+Assouplissement
+facile
+facile ?? utiliser
+facile ?? vivre
+exub??rance
+exub??rant
+??tonnamment
+Ec??nomique
+??conomique
+Extases
+extase
+en extase
+En extase
+??difier
+??duqu??
+efficace
+efficacement
+efficacit??
+efficace
+efficace
+efficace
+Efficacement
+sans effort
+sans effort
+effusion
+expansif
+Effusivement
+Effusivit??
+Elan
+Elate
+Exalt??e
+??norm??ment
+all??gresse
+??lectrifier
+??l??gance
+??l??gant
+??l??gamment
+??lever
+??lite
+??loquence
+??loquent
+??loquemment
+enhardir
+??minence
+??minent
+Empathie
+empathie
+habiliter
+Empowerment
+enchanter
+enchant??
+enchanteur
+Enchant??
+encourager
+encouragement
+encourageant
+De mani??re encourageante
+faire aimer
+Attachant
+endosser
+Approuv??
+approbation
+Approuve
+Endosser
+??nergique
+Dynamiser
+a faible consommation
+??conomie d'??nergie
+engageant
+captivant
+am??liorer
+renforc??e
+renforcement
+Am??liore
+prendre plaisir
+agr??able
+Agr??ablement
+Appr??ci??
+En profitant
+jouissance
+Appr??cie
+??clairer
+??claircissement
+animer
+ennoblir
+assez
+Enraper
+ravir
+??nerv??
+enrichir
+enrichissement
+entreprenant
+divertir
+divertissant
+Entretient
+captiver
+captiver
+Enthousiasm??
+enthousiasmer
+enthousiasme
+passionn??
+enthousiaste
+Avec enthousiasme
+attirer
+Attis??
+s??duisant
+De fa??on s??duisante
+Enchant??
+ravissant
+confier
+enviable
+Enviable
+envieux
+Envie
+L'envie
+envie
+??quitable
+Ergonomique
+Sans erreur
+??rudit
+??thique
+??loge
+euphorie
+Euphorique
+Euphoriquement
+??valuatif
+uniform??ment
+mouvement??
+??ternel
+??vocateur
+exalter
+exaltation
+exalt??
+Exalt??
+Exaltant
+Exaltant
+Examen
+Exemplaire
+Excalent
+d??passer
+D??pass??
+d??passement
+extr??mement
+D??passe
+exceller
+D??pass??
+Excellent
+Excellente
+Excellait
+excellence
+Excellence
+excellent
+parfaitement
+Excelle
+exceptionnel
+exceptionnellement
+exciter
+excit??
+Avec enthousiasme
+Excitation
+excitation
+Excites
+passionnant
+Passionnant
+Exellent
+exemple
+exemplaire
+Exhilarer
+Exaltante
+Exaltant
+euphorie
+disculper
+expansif
+Rapidement
+Avec comp??tence
+exquis
+Exquisement
+exalter
+exalter
+extraordinairement
+extraordinaire
+exub??rance
+exub??rant
+Exub??rante
+exulter
+exultant
+exultation
+Exultant
+Capture d'oeil
+Accrocheur
+Oeil
+Eyeccharing
+fabuleux
+Fabuleusement
+faciliter
+juste
+??quitablement
+justice
+Foi
+fid??le
+fid??lement
+fid??lit??
+c??l??brit??
+c??l??bre
+c??l??bre
+fameusement
+Plus amical
+Fancinating
+fantaisie
+fanfare
+Ventilateurs
+fantastique
+Fantastiquement
+fasciner
+fascinant
+Fascinant
+fascination
+?? la mode
+?? la mode
+vite
+croissance rapide
+Rapide
+Plus vite
+le plus rapide
+La croissance la plus rapide
+irr??prochable
+Fav
+Fave
+faveur
+favorable
+favoris??
+pr??f??r??
+Favoris??
+favoriser
+sans peur
+Sans crainte
+r??alisable
+De fa??on r??aliste
+exploit
+Riche en fonctionnalit??s
+F??conique
+Feisty
+f??liciter
+heureux
+f??licit??
+fertile
+fervent
+Avec ferveur
+fervent
+Fervement
+ferveur
+de f??te
+fid??lit??
+ardent
+bien
+Beau
+Finement
+Plus fin
+Le plus beau
+Plus ferme
+premi??re classe
+Premier en classe
+Premier taux
+tape ?? l'oeil
+flatter
+flatteur
+Flatteur
+sans d??faut
+Sans faille
+la flexibilit??
+flexible
+fleurir
+florissant
+Couramment
+battement
+Aim??
+affectueusement
+penchant
+infaillible
+avant toute chose
+pr??voyance
+redoutable
+courage
+fortuit
+fortuitement
+chanceux
+Heureusement
+fortune
+parfum??
+gratuit
+Lib??r??
+libert??
+Libert??s
+Frais
+plus frais
+Le plus frais
+la convivialit??
+amical
+gambader
+frugal
+fructueux
+Ftw
+accomplissement
+amusement
+Futurestic
+futuriste
+gaiet??
+gaiement
+Gain
+Gagn??
+R??mun??rateur
+?? gagner
+En gagnant
+Les gains
+galant
+Galamment
+en abondance
+Geekier
+Geeky
+gemme
+Gemmes
+g??n??rosit??
+g??n??reuse
+G??n??reusement
+Genial
+g??nie
+doux
+Le plus doux
+authentique
+dou??
+content de
+r??jouir
+volontier
+joie
+glamour
+joie
+joyeux
+Joyeusement
+lueur
+scintillant
+luire
+brillant
+briller
+Glitter
+glorifier
+glorieux
+Glorieusement
+gloire
+lueur
+embras??
+Brillamment
+Donn?? par Dieu
+don du ciel
+divin
+don du ciel
+or
+d'or
+bien
+beau
+la bont??
+Bonne volont??
+Goood
+Gooood
+magnifique
+Magnifiquement
+la gr??ce
+gracieux
+Gracieusement
+gracieux
+gracieusement
+gr??ce
+grandiose
+grandeur
+reconnaissant
+avec gratitude
+gratification
+Satisfaite
+Se r??jouit
+satisfaire
+Gratifiant
+Gratifiant
+Reconnaissance
+g??nial
+Le plus grand
+grandeur
+sourire
+R??volutionnaire
+une garantie
+orientation
+innocent
+jugeote
+jet
+enthousiasme
+Gutsy
+saluer
+alcyon
+vigoureux
+poin??onner
+Caract??ristiques
+Sanctifi??
+Handier
+?? maintes reprises
+les doigts dans le nez
+Beau
+G??n??reusement
+pratique
+plus heureux
+Heureusement
+bonheur
+content
+travailleur
+Plus dure
+robuste
+inoffensif
+harmonieux
+Harmonieusement
+harmoniser
+harmonie
+Progr??s
+gu??rir
+salubre
+en bonne sant??
+encourager
+Encourageant
+sinc??re
+chaleureusement
+R??confortant
+paradis
+c??leste
+aid??
+utile
+portion
+h??ros
+h??ro??que
+H??ro??quement
+h??ro??ne
+H??roiser
+H??ros
+haute qualit??
+Plein d'esprit
+hilarant
+saint
+hommage
+honn??te
+honn??tet??
+honneur
+honorable
+honor??
+Honorer
+Hooray
+optimiste
+hospitalier
+chaud
+g??teau chaud
+g??teaux chauds
+Le plus chaud
+??treinte
+humain
+humble
+humilit??
+humour
+humoristique
+Avec humour
+humour
+Humoristique
+id??al
+id??aliser
+id??alement
+idole
+idol??trer
+Idol??tr??
+idyllique
+??clairer
+Illuminati
+??clairant
+??clairer
+illustre
+Ilu
+Imaculer
+imaginatif
+immacul??
+parfaitement
+immense
+impartial
+impartialit??
+impartialement
+passionn??
+impeccable
+impeccablement
+important
+impressionner
+Impressionn??
+Impressionne
+impressionnant
+Impressionnante
+Impressionnante
+am??liorer
+am??lior??
+am??lioration
+Am??liorations
+Am??liore
+Am??liorant
+incroyable
+Incroyablement
+endett??
+Individualis??
+indulgence
+indulgent
+industrieux
+inestimable
+Inestimablement
+peu co??teux
+Infaillibilit??
+infaillible
+Infailliblement
+influent
+ing??nieux
+Ing??nieusement
+ing??niosit??
+ing??nu
+Ing??nument
+inoffensif
+innovation
+innovant
+Press??
+Perspicace
+Avec perspicacit??
+inspiration
+Inspirant
+inspirer
+inspirant
+imm??diatement
+instructif
+instrumental
+int??gral
+int??gr??
+intelligence
+intelligent
+intelligible
+int??ressant
+int??r??ts
+intimit??
+intime
+complexe
+intrigue
+intrigant
+Intrigante
+intuitif
+inestimable
+Inestimablement
+inventif
+revigorer
+Revigorant
+Invincibilit??
+invincible
+inviolable
+inviol??
+invuln??rable
+irrempla??able
+irr??prochable
+irr??sistible
+irr??sistiblement
+Sans issue
+D??verouillage
+Goutte ?? gueule
+Jolie
+gai
+jovial
+joie
+joyeux
+Avec joie
+joyeux
+Joyeusement
+radieux
+Avec joie
+jubiler
+jubilation
+Jubiliant
+judicieux
+justement
+vif
+Vivement
+finesse
+Accueille les enfants
+bont??
+gentiment
+la gentillesse
+bien inform??
+gloire
+grande capacit??
+louange
+louable
+Louable
+prodiguer
+somptueusement
+Respect de la loi
+l??gitime
+L??galement
+conduire
+de premier plan
+pistes
+maigre
+LED
+l??gendaire
+influence
+l??g??ret??
+lib??rer
+lib??ration
+libert??
+Sauveteur
+L??g??re
+plus l??ger
+sympathique
+comme
+aim??
+aime
+Aimer
+Lionhearted
+anim??
+logique
+longue dur??e
+aimable
+Amoureusement
+amour
+aim??
+beaut??
+charmant
+amoureux
+Aime
+aimant
+?? bas prix
+bas prix
+Bas prix
+faible risque
+Moins cher
+fid??le
+fid??lit??
+lucide
+Lucidement
+la chance
+Plus chanceux
+Le plus chanceux
+Chanceux
+chanceux
+lucratif
+lumineux
+luxuriant
+lustre
+lustr??
+luxuriant
+Luxuriate
+luxueux
+luxueusement
+luxe
+lyrique
+la magie
+magique
+magnanime
+Magnanime
+magnificence
+magnifique
+superbement
+majestueux
+majest??
+maniable
+maniable
+merveille
+??merveill??
+??merveill??
+merveilleux
+merveilleux
+merveilleusement
+Merveilleuse
+Merveilles
+ma??triser
+Magistral
+Magistralement
+chef-d'oeuvre
+chefs-d'??uvre
+ma??trise
+la ma??trise
+incomparable
+mature
+M??rement
+maturit??
+significatif
+m??morable
+mis??ricordieux
+Mis??ricordieux
+piti??
+m??rite
+m??ritoire
+joyeusement
+gaiet??
+Merriness
+joyeux
+hypnotiser
+Hypnotis??
+Hypnotise
+Hypnotisante
+Hypnotisant
+m??ticuleux
+m??ticuleusement
+puissamment
+puissant
+Soufflant
+miracle
+Miracles
+miraculeux
+miraculeusement
+Miraculeuse
+moderne
+modeste
+modestie
+important
+monumental
+Monumentalement
+moralit??
+motiv??
+polyvalent
+navigable
+soign??
+Le plus soign??
+soigneusement
+agr??able
+bien
+plus gentil
+Le plus agr??able
+Rus??
+agile
+noble
+noblement
+sans bruit
+La non-violence
+non violent
+Notamment
+remarquable
+nourrir
+nourrissant
+nourriture
+nouveaut??
+Nourrir
+oasis
+obsession
+Obsessions
+Pouvant ??tre obtenu
+ouvertement
+Ouverture
+Optimal
+optimisme
+optimiste
+opulent
+ordonn??
+originalit??
+surpasser
+D??pass??
+surpasser
+A surpass??
+Surperformant
+Surperforme
+??clipser
+Outshone
+D??passer
+exceptionnel
+remarquablement
+d??passer
+Outwit
+ovation
+fou de joie
+d??passer
+D??pass??
+D??passe
+d??passement
+D??pass??
+ouverture
+sans douleur
+sans douleur
+Sans douleur
+grandiose
+dorloter
+Chouchout??
+Parfait
+Le parfum
+Pampers
+panoramique
+paradis
+primordial
+pardon
+la passion
+passionn??
+passionn??ment
+la patience
+patient
+Patiemment
+patriote
+patriotique
+paix
+paisible
+paisible
+pacifiquement
+Casques bleus
+p??che
+hors pair
+dynamisme
+Pepped
+Pepping
+??nergique
+Peps
+parfait
+la perfection
+?? la perfection
+permis
+pers??v??rance
+pers??v??rer
+Personnages
+Personnalis??
+ph??nom??nal
+Ph??nom??nalement
+pittoresque
+pi??t??
+sommet
+espi??gle
+Enjou??
+agr??able
+agr??ablement
+heureux
+fait plaisir
+plaisant
+agr??ablement
+Agr??able
+Agr??ablement
+plaisir
+copieux
+Plus
+peluche
+Plusses
+po??tique
+po??tiser
+poignant
+??quilibre
+Pr??t
+brillant
+poli
+politesse
+populaire
+portable
+chic
+positif
+positivement
+Positifs
+puissant
+Puissamment
+louange
+Louable
+Louant
+pr????minent
+pr??cieux
+pr??cis
+pr??cis??ment
+pr????minent
+pr??f??rer
+pr??f??rable
+de pr??f??rence
+pr??f??r??
+Pr??f??re
+Pr??f??rant
+Pr??f??re
+premier
+prestige
+prestigieux
+joliment
+joli
+inestimable
+fiert??
+En principe
+privil??ge
+privil??gi??
+prix
+proactif
+Sans probl??me
+un r??solveur de probl??mes
+prodigieux
+prodigieusement
+prodige
+productif
+De mani??re productive
+comp??tent
+Avec comp??tence
+profond
+profond??ment
+abondant
+profusion
+le progr??s
+progressive
+prolifique
+importance
+important
+promettre
+promis
+promesses
+prometteur
+Promoteur
+rapide
+rapidement
+correct
+correctement
+propice
+Propice
+avantages
+prosp??rer
+la prosp??rit??
+prosp??re
+Prospros
+prot??ger
+protection
+protecteur
+fier
+??prouv??
+Prouve
+Providence
+Prouver
+prouesse
+prudence
+prudent
+Prudemment
+ponctuel
+pur
+purifier
+d??termin??
+pittoresque
+qualifi??
+qualifier
+Plus vite
+silencieux
+plus tranquille
+??clat
+radiant
+rapide
+rapport
+Rapt
+ravissement
+Raptureux
+Ravisseusement
+enthousiaste
+Avec enthousiasme
+rationnel
+lame de rasoir
+accessible
+lisible
+facilement
+pr??t
+r??affirmer
+r??affirmation
+r??aliste
+r??alisable
+raisonnable
+raisonnablement
+Raisonn??
+r??confort
+rassurer
+r??ceptif
+R??clamer
+Recommander
+recommander
+recommandation
+Recommandations
+conseill??
+r??concilier
+r??conciliation
+Enregistrement
+r??cup??rer
+r??cup??ration
+rectification
+rectifier
+Rectification
+racheter
+Racheter
+rachat
+affiner
+raffin??
+raffinement
+r??forme
+r??form??
+R??former
+R??formes
+rafra??chir
+Rafra??chi
+rafra??chissant
+rembourser
+Rembours??
+royal
+royalement
+ce qui concerne
+r??jouir
+r??jouissance
+Avec joie
+rajeunir
+Rajeuni
+Rajeunir
+d??tendu
+Renoncer
+fiable
+De mani??re fiable
+le soulagement
+go??t
+remarquable
+remarquablement
+rem??dier
+remise
+r??mun??rer
+Renaissance
+renouvel??
+renomm??e
+renomm??
+rempla??able
+honorable
+r??putation
+r??silient
+r??solu
+retentir
+retentissant
+ing??nieux
+ressource
+le respect
+respectable
+respectueux
+avec respect
+r??pit
+resplendissant
+De mani??re responsable
+sensible
+reposant
+Restaur??
+restructurer
+Restructur??
+restructuration
+R??tractable
+se d??lecter
+r??v??lation
+r??v??rer
+r??v??rence
+respectueux
+Avec respect
+Revitaliser
+la relance
+relancer
+Revive
+r??volutionnaire
+r??volutionner
+R??volutionn??
+R??volutionne
+r??compense
+r??compense
+Gracieusement
+riches
+Plus riche
+richement
+richesse
+droite
+Redresser
+vertueux
+Avec droiture
+droiture
+l??gitime
+?? juste titre
+justement
+justesse
+sans risque
+robuste
+rock star
+stars du rock
+rock star
+stars du rock
+romantique
+romantique
+romancer
+Plus ample
+spacieux
+ros??
+s??r
+sans encombre
+sagacit??
+Sagement
+Saint
+saintet??
+saint
+salutaire
+saluer
+sain
+De mani??re satisfaisante
+satisfaisant
+satisfait
+Satisfait
+satisfaire
+satisfaisant
+Satisfait
+??pargnant
+des ??conomies
+Sauveur
+Savvy
+sc??nique
+sans couture
+chevronn??
+garantir
+En toute s??curit??
+s??lectif
+autod??termination
+respect de soi
+Satisfaction personnelle
+autosuffisance
+autosuffisant
+sensation
+sensationnel
+Sensationnellement
+Sensations
+sensible
+sensiblement
+sensible
+serein
+s??r??nit??
+sexy
+tranchant
+Plus net
+Plus pointu
+chatoyant
+Brillamment
+??clat
+brillant
+important
+silencieux
+Plus simple
+Le plus simple
+simplifi??
+Simplifie
+simplifier
+Simplifier
+sinc??re
+Cordialement
+la sinc??rit??
+comp??tence
+qualifi??
+habile
+habilement
+Slammin
+lisse
+nappe
+intelligent
+Plus intelligente
+Le plus intelligent
+Intelligemment
+sourire
+Sourires
+souriant
+En souriant
+frapp??
+lisse
+Plus lisse
+Lisse
+Le plus lisse
+doucement
+Rapide
+Snazzy
+sociable
+doux
+plus douce
+r??confort
+soucieux
+Sollicit??
+solide
+solidarit??
+apaiser
+Calmement
+sophistiqu??
+??mouvant
+En profondeur
+solidit??
+spacieux
+??clat
+p??tillant
+spectaculaire
+Spectaculairement
+rapidement
+rapide
+fasciner
+Spellbinding
+??pouvantables
+Enchant??
+fougueux
+spirituel
+splendide
+Splendidement
+splendeur
+spontan??
+sportif
+impeccable
+vif
+la stabilit??
+stabiliser
+stable
+inoxydable
+ressortir
+l'??tat de l'art
+majestueux
+sculptural
+??tancher
+Fermement
+Mise en ??vidence
+ferme
+Sans cesse
+La fermet??
+Plus stable
+stabilit??
+stable
+stellaire
+Stellairement
+stimuler
+Stimule
+stimulant
+Stimulant
+Avec agitation
+redresser
+simple
+Rationalis??
+frappant
+De mani??re frappante
+Lutte
+fort
+plus forte
+Le plus fort
+??tourdi
+??tourdissant
+Incroyablement
+prodigieux
+Stup??fiant
+Plus robuste
+solide
+??l??gant
+??l??gamment
+stylis??
+Suave
+Doucement
+sublime
+subventionner
+subventionn??
+Subventionne
+Subventionner
+substantiel
+r??ussir
+r??ussi
+R??ussir
+R??ussit
+Succ??s
+Succ??s
+Succ??s
+r??ussi
+avec succ??s
+suffire
+Suffisait
+Suffit
+suffisant
+Suffisamment
+adapt??
+somptueux
+Somptueusement
+Somptueux
+super
+superbe
+Superbement
+sup??rieur
+sup??riorit??
+souple
+soutien
+prise en charge
+Supporter
+justificatif
+De soutien
+les soutiens
+supr??matie
+supr??me
+Supr??mement
+Supurb
+Rarement
+surmonter
+d??passer
+Surr??aliste
+survie
+survivant
+durabilit??
+Durable
+esbroufe
+Swankier
+Le plus marrant
+Swanky
+balayage
+doux
+sucrer
+amoureux
+gentiment
+douceur
+rapide
+rapidit??
+Talent
+talentueux
+Les talents
+Tenter
+Tentant
+Tantement
+tenter
+tentant
+Avec temptation
+tenace
+avec t??nacit??
+t??nacit??
+soumissionner
+tendrement
+sensationnel
+Terriblement
+remercier
+reconnaissant
+plus mince
+r??fl??chi
+Pensivement
+pr??venance
+??pargne
+??conome
+frisson
+ravi
+palpitant
+Avec enthousiasme
+Sensations fortes
+prosp??rer
+prosp??re
+Pouce en l'air
+pouces vers le haut
+chatouiller
+rang??
+Honorable
+opportun
+picotement
+titiller
+Titillant
+Titillant
+unit??
+tol??rable
+gratuit
+Haut
+excellent
+qualit?? sup??rieure
+excellent
+Tops
+dure
+Plus dur
+Le plus dur
+traction
+tranquille
+tranquillit??
+transparent
+Tr??sor
+??norm??ment
+branch??
+triomphe
+triomphal
+triomphant
+Triomphalement
+Trivialement
+troph??e
+Sans probl??me
+atout
+trompette
+confiance
+de confiance
+confiant
+Avec confiance
+fiabilit??
+digne de confiance
+s??r
+v??ridique
+Sinc??rement
+v??racit??
+Twinkly
+Ultra-croustillant
+nullement intimid??
+Sans rel??che
+non affect??
+inattaquable
+imbattable
+impartial
+non li??
+Sans complication
+inconditionnel
+En bon ??tat
+Impitoyable
+compr??hensible
+Incontournable
+Sans ??quivoque
+incontest??
+Sans encombre
+sans ??quivoque
+Sans ??quivoque
+In??branlable
+sans entrave
+inoubliable
+unit??
+illimit??
+incomparable
+sans pr??c??dent
+incontestable
+Incontestablement
+irr??el
+libre
+sans ??gal
+g??n??reux
+in??branlable
+optimiste
+Mise ?? jour
+Extensible
+Mis ?? niveau
+Confirm??
+d??fendre
+soul??vement
+??difiant
+Upliftingly
+Soul??vement
+Haut de gamme
+utilisable
+Utilisable
+utile
+convivial
+Rempla??able par l'utilisateur
+vaillant
+Vaillamment
+valeur
+de valeur
+vari??t??
+v??n??rer
+v??rifiable
+v??ritable
+polyvalent
+versatilit??
+vibrant
+Vibrantement
+victorieux
+la victoire
+Visible
+vigilance
+vigilant
+vertu
+vertueux
+vertueusement
+visionnaire
+vivace
+vif
+garant
+accorder
+chaud
+Plus chaud
+chaleureux
+chaleureusement
+chaleur
+riches
+Bienvenue
+bien
+Bien r??tro-??clair??
+Bien ??quilibr??
+Bien port??
+bien-??tre
+Bien ??lev??
+Bien connect??
+bien ??duqu??
+Bien ??tabli
+Bien inform??
+Bien intentionn??
+bien connu
+bien fait
+bien g??r??
+Bien dress??
+bien positionn??
+bien re??u
+Bien consid??r??
+Bien ??quilibr??
+Bien g??r??
+Bien-aim??s
+bien-??tre
+Whoa
+de tout c??ur
+sain
+Whooa
+Whoooa
+Wieldy
+pr??t
+volontiers
+volont??
+gagner
+aubaine
+Winnable
+gagnant
+gagnants
+gagnant
+Gagne
+sagesse
+sage
+judicieusement
+spirituel
+a gagn??
+merveille
+formidable
+merveilleusement
+Merveilleuse
+Merveilleusement
+merveilles
+merveilleux
+courtiser
+travail
+r??alisable
+travaill??
+travaux
+mondialement c??l??bre
+vaut
+digne d'int??r??t
+La dignit??
+digne d'int??r??t
+digne
+sensationnel
+??merveill??
+Waving
+Wows
+Yay
+jeune
+z??le
+z??nith
+zeste
+Zippy
